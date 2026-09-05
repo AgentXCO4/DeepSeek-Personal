@@ -27,7 +27,7 @@ A private, password‑protected AI assistant built on DeepSeek & Mistral, with p
 
 ## Is DeepSeek Personal Paid?
 
-Yes. Its $1.
+No.
 
 ---
 Go check out the free and more advanced version!
