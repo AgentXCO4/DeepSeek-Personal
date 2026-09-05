@@ -3,6 +3,10 @@
 **Modified DeepSeek AI with long‑term memory.**
 
 ### ⚠️ DeepSeek personal is no longer under development.
+---
+I have decided to stop development of DeepSeek personal, if I decide to comeback onto it, I will. But I probably will not.
+
+---
 Password: APIUNLOCK
 
 A private, password‑protected AI assistant built on DeepSeek & Mistral, with persistent chat history, code block support, and built‑in guardrails.
